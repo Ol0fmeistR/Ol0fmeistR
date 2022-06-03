@@ -1,4 +1,4 @@
-<img src="rickandmorty.jpg" width="1024">
+<img src="rickandmorty.jpg" width="1024" height="300">
 
 - 👋 Hi, I’m Arindam Baruah
 - 💖 My interest lies in Data Analytics and Machine Learning
