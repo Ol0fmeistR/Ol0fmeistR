@@ -1,4 +1,4 @@
-![Just Rick and Morty being awesome as always](rickandmorty.jpg)
+<img src="rickandmorty.jpg" width="1024">
 
 - 👋 Hi, I’m Arindam Baruah
 - 💖 My interest lies in Data Analytics and Machine Learning
